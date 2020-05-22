@@ -383,3 +383,5 @@ host, analytics.strava.com, Domestic
 host, download.jetbrains.com, Domestic
 host, images-cn.ssl-images-amazon.com, Domestic
 host, cdn.angruo.com, Domestic
+host, yaohw.com, Domestic
+host, yaohuo.me, Domestic
